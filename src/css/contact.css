@@ -1,0 +1,40 @@
+
+.card-icon{
+    
+    display: flex;
+    justify-content: center;
+   
+
+}
+.icon{
+    font-size: 100px;
+    
+}
+.card-tex{
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    color: #444;
+    padding: 0.5rem;
+}
+
+.telegram{
+    color: #07a8f8;
+}
+.ins{
+    color: #EF586A;
+}
+.phone{
+    color: #41A5EE;
+}
+.fase{
+    
+    color: #08457e;
+}
+
+.contact_text{
+    font-family: 'Lobster', cursive;
+}
+
+.card{
+    font-family: 'Lobster', cursive;
+}
